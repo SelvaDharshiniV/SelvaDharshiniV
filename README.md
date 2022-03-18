@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SelvaDharshiniV
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning B.E/ECE 
-- 📫 How to reach me PH:7339177225 
-- 💻 Technical knowledge- Java, Python, HTML
+- 👀 Software Engineer
+- 📫 How to reach me, drop a mail to dharashiniV15@gmail.com 
+- 💻 Technical knowledge- Java, HTML5\CSS3,React JS ,Spring Boot ,SQL..
 
 <!---
 SelvaDharshiniV/SelvaDharshiniV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
